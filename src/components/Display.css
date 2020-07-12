@@ -1,0 +1,9 @@
+div.display {
+  background-color: black;
+  color: white;
+  width: 400px;
+  height: 80px;
+  line-height: 80px;
+  font-size: 40px;
+  text-align: right;
+}
